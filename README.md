@@ -39,7 +39,7 @@
 <br/>
 
 [📋 Full Table of Contents](#-table-of-contents) • 
-[🚨 Emergency Cheat Sheet](#-emergency-cheat-sheet-dont-panic) • 
+[🚨 Emergency Cheat Sheet](#86-emergency-cheat-sheet-dont-panic) • 
 [⭐ Top 10 First Commands](#the-essential-10-commands-to-master-first)
 
 ---
